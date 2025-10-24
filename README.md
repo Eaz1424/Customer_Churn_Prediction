@@ -1,4 +1,4 @@
-#### Customer Churn Prediction Model
+## Customer Churn Prediction Model
 Predict churn early, retain loyal guests, and grow lifetime value for restaurant and food-delivery programs.
 
 ---
