@@ -24,7 +24,7 @@ Snapshot of the Data & Drivers
 ![Churn risk by membership tier](assets/tier_churn_rates.png)
 ![Top drivers of churn from Random Forest](assets/feature_importance.png)
 
-Results at a Glance
+## Results at a Glance
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 | --- | --- | --- | --- | --- | --- |
 | Logistic Regression (SMOTE) | 0.772 | 0.503 | **0.777** | **0.611** | **0.860** |
@@ -43,7 +43,7 @@ Quick Start
 3. **Review exports**: explore `data/customer_churn_predictions.csv`, `data/dashboard_customer_churn_view.csv`, and `data/insight_summary.csv` for ready-to-use outputs.
 4. **Load into BI/CRM**: use `sql/churn_data_import.sql` to load predictions into your warehouse and plug them into dashboards or marketing automations.
 
-Deliverables
+## Deliverables
 
 - `customer_churn_prediction.ipynb` – end-to-end pipeline with narrative commentary.
 - `data/customer_churn_predictions.csv` – scored customers with probability of churn.
