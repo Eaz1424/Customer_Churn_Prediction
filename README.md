@@ -1,9 +1,9 @@
-Customer Churn Prediction Model
+#### Customer Churn Prediction Model
 Predict churn early, retain loyal guests, and grow lifetime value for restaurant and food-delivery programs.
 
 ---
 
-Overview
+## Overview
 The model analyzes 30k synthetic loyalty profiles that mimic real customer behavior: order frequency, discount usage, tenure, engagement, and complaints. By combining exploratory analysis with two complementary machine learning models, the solution delivers actionable churn scores and segment-level insights marketing teams can act on immediately.
 
 Why It Matters
