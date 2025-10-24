@@ -1,0 +1,4 @@
+segment,customers,actual_churn_rate,avg_predicted_risk,relative_to_baseline
+High discount reliance & infrequent orders,3217,0.552377991917936,0.6999893711594447,2.399209462507323
+Inactivity > 85th percentile days since last order,4767,0.4929725194042375,0.5967778718256606,2.1411865617673556
+Bottom quintile email engagement,6721,0.323314982889451,0.4234779193070571,1.404292672170773
