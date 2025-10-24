@@ -64,5 +64,3 @@ Roadmap Ideas
 - Layer in real CRM attributes (channel preferences, satisfaction scores) once available.
 - Publish a Streamlit or Plotly dashboard (stretch goal) for interactive retention planning.
 
-🤝 Get Involved
-Questions or collaboration ideas? Open an issue or reach out—let’s keep more loyal diners delighted while optimizing spend.
